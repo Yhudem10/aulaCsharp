@@ -1,0 +1,7 @@
+echo "# aulaCsharp" >> README.md
+git init
+git add README.md
+git commit -m "Minhas Aulas"
+git branch -M main
+git remote add origin git@github.com:Yhudem10/aulaCsharp.git
+git push -u origin main
